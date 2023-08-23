@@ -2,17 +2,22 @@ package com.javaclass;
 
 public class Employee {
 	
-	public void Company  {
-		System.out.println("Qa services");
-		
-}
+	
 	
 	public static void main(String[] args) {
 		
 		Employee obj = new Employee();
-		obj.Company();
+		obj.Companys();
 		
 		
+	}
+
+	public void Companys() {
+		System.out.println("Qa services");
+		
+	}
+	public void addToKart() {
+		System.out.println("Prem is working on Add to kart");
 	}
 
 }
