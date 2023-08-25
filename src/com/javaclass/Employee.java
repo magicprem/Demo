@@ -20,4 +20,9 @@ public class Employee {
 		System.out.println("Prem is working on Add to kart");
 	}
 
+	private void payment() {
+		// TODO Auto-generated method stub
+		System.out.println("This is sathis - Payment");
+	}
+
 }
