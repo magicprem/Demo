@@ -14,5 +14,8 @@ public class Employee {
 		
 		
 	}
-
+	private void payment() {
+		// TODO Auto-generated method stub
+		System.out.println("This is sathis - Payment");
+	}
 }
